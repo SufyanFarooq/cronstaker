@@ -1,0 +1,126 @@
+
+.plans-box-wrap {
+    background-image: linear-gradient(300.12deg,#0b1695 70%,#000000 50%)!important;
+
+
+}
+
+.plans-box-wrap {
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    padding: 20px;
+    width: 100%;
+    height: auto;
+    position: relative;
+}
+.flex-div-wrap-header {
+    display: flex;
+    justify-content: space-between;
+}
+.flex-div-wrap {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 15px 0;
+}
+.flex-div-wrap p {
+    font-size: 14px;
+    font-weight: 700;
+}
+.flex-div-wrap span {
+    color: #fff;
+    font-weight: 700;
+    font-size: 20px;
+}
+.days-locked, .days-locked div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.days-locked {
+    width: 100%;
+    margin: 40px 0;
+}
+.home-container.Avalanche .days-locked div {
+    color: rgba(232,65,66,.9)!important;
+}
+
+.days-locked div {
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    background: #fff;
+    position: relative;
+   
+}
+.days-locked, .days-locked div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.days-locked h3 {
+    font-size: 32px;
+    margin-top: -8px;
+}
+.days-locked p {
+    font-size: 12px;
+    font-weight: 600;
+    position: absolute;
+   
+    margin-top: 3rem;
+}
+.flex-div-wrap {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 15px 0;
+}
+.flex-div-wrap input {
+    outline: none;
+    background: #fff;
+    font-size: 18px;
+    padding: 5px 20px;
+    width: 90%;
+    border-radius: 5px;
+    border: 1px solid #e2e9bc;
+    color: #242444;
+    display: flex;
+    align-items: center;
+    vertical-align: middle;
+}
+.flex-div-wrap span {
+    /* color: #fff; */
+    font-weight: 700;
+    font-size: 20px;
+}
+.stake-button-wrap {
+    display: flex;
+    width: 100%;
+   
+}
+.stake-button-wrap button {
+    background-image: linear-gradient(300.12deg,#0b1695 0%,#000000 50%)!important;
+
+
+    color: #fff;
+    padding: 12px;
+    width: 100%;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    font-weight: 800;
+    font-size: 16px;
+    cursor: pointer;
+    margin-left: 0px;
+}
+
+.line_hh{
+    line-height: 10px;
+}
+
+.days-locked div {
+    color: rgba(232,65,66,.9)!important;
+}
